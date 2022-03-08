@@ -6,3 +6,10 @@ A Mobile app for muslims people that allows them to browse the azkar and to list
 
 ### User Story
 
+
+
+
+https://user-images.githubusercontent.com/76879976/157225408-efa59d93-b986-44a4-88f4-953a07f728ea.mp4
+
+
+
